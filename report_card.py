@@ -1,0 +1,5 @@
+name = input("What's your name? ")
+print(name)
+grade = input("What's your grade? ")
+print(grade)
+print(f"{name} got a grade of {grade}.")
